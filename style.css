@@ -1,0 +1,57 @@
+
+
+h1 {
+    color: dimgray;
+    font-family: serif;
+    text-align: center;
+    height: 80px;
+    padding-top: 50px;
+    font-size: 80px;
+
+}
+h2	{
+	color: black;
+	text-align: center;
+	font-family: fantasy;
+}
+td{
+	color: black;
+	width: 100px;
+	height: 100px;
+	
+}
+ row-0 {
+ 	color: white;
+ 	width: 100px;
+ 	height: 100px;
+ }
+ table{
+ 	align-content: center: ;
+ 	margin-left: auto;
+    margin-right: auto;
+}
+ 
+
+#playButton{
+  	margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    width: 80px;
+    border-radius : 4px;
+    display: block;
+  	border: solid 1px red;
+  	margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
